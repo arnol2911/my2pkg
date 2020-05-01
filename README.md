@@ -1,2 +1,3 @@
 # my2pkg
 This is my first package
+Maybe the beginning of a long journey...
